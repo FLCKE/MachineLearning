@@ -1,0 +1,28 @@
+# --- Analyse de données et Calcul ---
+pandas
+numpy
+scikit-learn
+
+# --- Visualisation ---
+matplotlib
+seaborn
+shap
+
+# --- Machine Learning (Modèles avancés) ---
+xgboost
+
+# --- MLOps (Tracking et Cycle de vie) ---
+mlflow
+
+# --- Interface Utilisateur (Dashboard) ---
+streamlit
+
+# --- API et Déploiement ---
+fastapi
+uvicorn
+pydantic
+joblib
+
+# --- Utilitaires ---
+ipykernel
+kagglehub

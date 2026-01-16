@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+env/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Joblib models
+*.joblib
+
+# Streamlit temporary files
+.streamlit/
+app_log.log
+
+# Data files
+*.csv
+*.tsv
+*.data
+*.sqlite
+
+# Logs
+*.log
+
+# Project-specific files
+roc_curve.png
+shap_summary.png
+save_final.csv
