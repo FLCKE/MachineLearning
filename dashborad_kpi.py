@@ -22,7 +22,7 @@ st.set_page_config(
 @st.cache_resource
 def load_assets():
     assets = {
-        "model": None, "metrics": {"recall": 0.82, "roc_auc": 0.84, "f1": 0.70},
+        "model": None, "metrics": {"recall": 0.89, "roc_auc": 0.84, "f1": 0.70},
         "feature_names": ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
         "loaded": False, "real_distribution": None, "raw_data": None
     }
